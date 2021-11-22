@@ -37,7 +37,7 @@ export default {
 
     section .banner-text {
         position: absolute;
-        right: 250px;
+        right: 150px;
     }
 
     .banner-text h1 {
